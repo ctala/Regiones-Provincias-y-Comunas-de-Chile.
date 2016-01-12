@@ -1,0 +1,13 @@
+{
+    "name": "ctala/regiones-provincias-y-comunas-de-chile.",
+    "description": "SQL Con la información de las regiones, provincias y comunas de Chile según Decreto Exento Nº 817",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Tala S.",
+            "email": "cristian.tala@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
