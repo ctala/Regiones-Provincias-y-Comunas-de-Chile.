@@ -20,3 +20,6 @@ Los número de las Provincias y regiones corresponden a los que salen en el decr
 Simplemente agrega el código con phpmyadmin u otro gestor, o usando la línea de comandos de la siguiente manera :
 
     $ mysql -u MIUSUARIO -pMICLAVE MIBDD < sql/MysqlDUMP.sql
+
+### Usando Composer
+    composer require ctala/regiones-provincias-y-comunas-de-chile
