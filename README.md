@@ -23,3 +23,11 @@ Simplemente agrega el código con phpmyadmin u otro gestor, o usando la línea d
 
 ### Usando Composer
     composer require ctala/regiones-provincias-y-comunas-de-chile
+
+# Miscelaneos
+## ISO 3166-2:CL
+ISO 3166-2:CL es la serie de códigos ISO 3166-2 correspondiente a Chile
+https://en.wikipedia.org/wiki/ISO_3166-2:CL
+## Divisiones Administrativas de Chile
+Para el gobierno y la administración interior del Estado, el territorio de la República de Chile se divide actualmente en quince regiones, que a su vez se subdividen en 54 provincias; para los efectos de la administración local, las provincias se subdividen en 346 comunas.
+https://en.wikipedia.org/wiki/Administrative_divisions_of_Chile
