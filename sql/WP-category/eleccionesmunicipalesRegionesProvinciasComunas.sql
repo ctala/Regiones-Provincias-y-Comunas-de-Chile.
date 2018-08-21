@@ -356,7 +356,7 @@ INSERT INTO `wp_terms` (`term_id`, `name`, `slug`, `term_group`) VALUES
 (8034, 'Hualaihué', 'com-hualaihue', 0),
 (8035, 'Palena', 'com-palena', 0),
 (8036, 'Región Aisén del Gral. Carlos Ibáñez del Campo', 'reg-region-aisen-del-gral-ca', 0),
-(8037, 'Coihaique', 'prov-coihaique', 0),
+(8037, 'Coyhaique', 'prov-coyhaique', 0),
 (8038, 'Coyhaique', 'com-coyhaique', 0),
 (8039, 'Lago Verde', 'com-lago-verde', 0),
 (8040, 'Aisén', 'prov-aisen', 0),
